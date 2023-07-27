@@ -65,4 +65,63 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mis Proyectos</title>
+    <style>
+        /* Estilos para la tabla (opcional, puedes personalizarlos) */
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mis Proyectos</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Nombre del Proyecto</th>
+                <th>Descripción</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <h1>Proyecto 1</h1>
+                    <img src="https://raw.githubusercontent.com/jeancode/SnakeFGame/main/Miniatura.png" alt="" style="width: 400px;">
+                </td>
+                
+                <td>
+                   
+                
+                </td>
+               
+            </tr>
+            <tr>
+               <td>
+                <img src="https://raw.githubusercontent.com/jeancode/CarameloLoad/main/Captura.PNG" alt="" style="width: 400px;">
+               </td>
+            </tr>
+            <!-- Agrega más filas para tus proyectos -->
+        </tbody>
+    </table>
+</body>
+</html>
 

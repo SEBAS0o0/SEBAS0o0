@@ -65,65 +65,158 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Tabla con 2 columnas y 5 filas</title>
-    <style>
-        /* Estilos para la tabla (opcional, puedes personalizarlos) */
-        table {
-            border-collapse: collapse;
-            width: 50%;
-            margin: auto;
-        }
+<h2 align="center" > 
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 
-        th, td {
-            border: 1px solid #ccc;
-            padding: 8px;
-            text-align: center;
-        }
+<p>
+  <img  width="100%" alt="🦑" src="./jeancode.png">
+</p>
 
-        th {
-            background-color: #f2f2f2;
-        }
 
-        tr:hover {
-            background-color: #f5f5f5;
-        }
-    </style>
-</head>
-<body>
-    <h1>Tabla con 2 columnas y 5 filas</h1>
-    <table>
-        <thead>
-            <tr>
-                <th>Columna 1</th>
-                <th>Columna 2</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Fila 1, Celda 1</td>
-                <td>Fila 1, Celda 2</td>
-            </tr>
-            <tr>
-                <td>Fila 2, Celda 1</td>
-                <td>Fila 2, Celda 2</td>
-            </tr>
-            <tr>
-                <td>Fila 3, Celda 1</td>
-                <td>Fila 3, Celda 2</td>
-            </tr>
-            <tr>
-                <td>Fila 4, Celda 1</td>
-                <td>Fila 4, Celda 2</td>
-            </tr>
-            <tr>
-                <td>Fila 5, Celda 1</td>
-                <td>Fila 5, Celda 2</td>
-            </tr>
-        </tbody>
-    </table>
-</body>
-</html>
-  
+<p>
+  <img  width="100%" alt="🦑" src="./animation1.gif">
+</p>
+
+
+| Niebla | Form3d |
+| ------------- | ------------- |
+| C++ | 40% |
+| Python | 60% |
+| Nodejs | 80% |
+| Javascript | 80% |
+| PHP | 75% |
+| HTML | 90% |
+| CSS | 90% |
+
+
+
+
+<p><h1>Mi Tiktok en 2021</h1></p>
+<p>
+<img src="./Tiktok.PNG" >
+</p>
+
+<p><h1>Portafolio</h1></p>
+
+| Snake | Descripción |
+|------------|------------|
+|<a href="https://github.com/jeancode/SnakeFGame"><img  width="450" alt="🦑" src="https://github.com/jeancode/SnakeFGame/raw/main/Miniatura.png"> </a>|Pequeño ejemplo del juego del snake con javascript y html|
+
+
+|Load Caramelo| Descripción |
+|------------|------------|
+|<a href="https://github.com/jeancode/CarameloLoad"><img  width="450" alt="🦑" src="https://github.com/jeancode/CarameloLoad/blob/main/Captura.PNG"> </a>|Pequeño ejemplo de loading estilo caramelo echo con Html css y javascript|
+
+
+
+
+|Simple control Cnc HTML| Descripción |
+|------------|------------|
+|<a href="https://github.com/jeancode/SimpleControlCnc"><img  width="450" alt="🦑" src="https://github.com/jeancode/SimpleControlCnc/blob/main/00.PNG"> </a>|Pequeño ejemplo de control echo con Html css y javascript|
+
+
+
+|Planeta Jean| Descripción |
+|------------|------------|
+|<a href="https://github.com/jeancode/Pleneta-Jean"><img  width="450" alt="🦑" src="https://github.com/jeancode/Pleneta-Jean/blob/main/Captura.PNG"> </a>|Pequeño ejemplo echo con Html css y javascript|
+
+
+|FormularioMovil| Descripción |
+|------------|------------|
+|<a href="https://github.com/jeancode/SimpleLoginMovil/"><img  width="450" alt="🦑" src="https://github.com/jeancode/SimpleLoginMovil/raw/main/Captura.PNG"> </a>|Pequeño ejemplo echo con Html css y javascript|
+
+
+|MenuDesplegable| Descripción |
+|------------|------------|
+|<a href="https://github.com/jeancode/MenuDesplegableSelectTheme"><img  width="450" alt="🦑" src="https://github.com/jeancode/MenuDesplegableSelectTheme/raw/main/captura.png"> </a>|Pequeño ejemplo echo con Html css y javascript|
+
+
+
+
+|Esp32 Ble keyboard|
+|------------| 
+|<a href="https://github.com/jeancode/ESP32-BLE-Keyboard"><img  width="450" alt="🦑" src="https://user-images.githubusercontent.com/19756878/146260169-cec8fe6e-2f0e-4171-ace8-3a74cf27eb68.png"> </a>|
+
+
+
+
+|MenuCssPS4|
+|------------| 
+|<img  width="350" alt="🦑" src="https://github.com/jeancode/MenuCssPS4/blob/main/Animation.gif?raw=true"> |
+
+
+|Scroll3dFade|
+|------------| 
+|<img  width="350" alt="🦑" src="https://github.com/jeancode/Scroll3dFade/blob/main/Captura.PNG"> |
+
+
+|Agenda Simple| Juegos Calamar |
+|------------| ------------ |
+|<img  width="350" alt="🦑" src="https://github.com/jeancode/AgendaGussiana/raw/main/Captura.PNG"> |<img  width="350" alt="🦑" src="https://github.com/jeancode/JuegosCalamarCss/raw/main/Captura.PNG"> | 
+
+
+|fromGreen| AlertPersonalizedGlass |
+|------------|------------|
+|<img  width="350" alt="🦑" src="https://github.com/jeancode/FormNebulaPurpleV2/raw/main/Captura.PNG"> | <img  width="350" alt="🦑" src="https://github.com/jeancode/AlertPersonalizedGlass/raw/main/Captura.PNG"> |
+
+
+
+|MarijuanaApp| fromGreen   |
+|------------|------------|
+| <img  width="350" alt="🦑" src="https://github.com/jeancode/MarijuanaApp/raw/main/animation.gif">|<img  width="350" alt="🦑" src="https://raw.githubusercontent.com/jeancode/fromGreen/main/animacion.gif">|
+
+
+|ProgressColor v2|TrackBarHabilidades|
+|----------------|----------------|
+|<img  width="350" alt="🦑" src="https://github.com/jeancode/PogressIntercalColor/raw/main/Captura.PNG">|<img  width="350" alt="🦑" src="https://github.com/jeancode/trackBarHabilidades/raw/main/animation1.gif">|
+
+|LoginDeplege| LoginDeplege|
+|----------------|----------------|
+|<img  width="350" alt="🦑" src="https://github.com/jeancode/LoginDeplege/raw/main/animation.gif">|<img  width="350" alt="🦑" src="https://github.com/jeancode/SimpleCheckV1/raw/main/animation.gif">|
+
+
+| Niebla |  loadColor |
+| ------------- | ------------- |
+| <img  width="350" alt="🦑" src="https://github.com/jeancode/AceleratorIndicator/blob/main/Captura.PNG"> | <img  width="350" alt="🦑" src="https://github.com/jeancode/loadColor/raw/main/Captura.PNG">     
+
+
+| Niebla | Form3d |
+| ------------- | ------------- |
+| <img  width="350" alt="🦑" src="https://github.com/jeancode/NieblaV1/blob/main/Captura.PNG?raw=true">   |  <img  width="350" alt="🦑" src="https://github.com/jeancode/FormCube/blob/master/Captura.PNG?raw=true">  |
+
+
+
+
+
+| NeonBotonV1 | DropDown |
+| ------------- | ------------- |
+|<img align="left" width="350" alt="🦑" src="https://github.com/jeancode/NeonBotonV1/raw/main/Captura.PNG">|<img align="left" width="350" alt="🦑" src="https://github.com/jeancode/DropDown/raw/main/Captura.PNG">|
+
+
+| rippleExample | AnimationForm |
+| ------------- | ------------- |
+|<img align="left" width="350" alt="🦑" src="https://github.com/jeancode/rippleExample/raw/main/Captura.PNG">|<img style="margin-top:100px" align="left" width="350" alt="🦑" src="https://github.com/jeancode/AnimationForm/raw/main/Captura.PNG?raw=true">|
+
+
+
+
+| menuDesplaz | TargetDesplace |
+| ------------- | ------------- |
+|<img align="left" width="350" alt="🦑" src="https://github.com/jeancode/menuDesplaz/raw/main/cap.png">|<img align="left" width="350" alt="🦑" src="https://raw.githubusercontent.com/jeancode/TargetDesplace/main/tarjetas.PNG">|
+
+
+| ProgresBarCircle | SpacedMaketaV1 |
+| ------------- | ------------- |
+|<img align="left" width="350" alt="🦑" src="https://github.com/jeancode/ProgresBarCircle/raw/main/progressBarCircle.PNG?raw=true">|<img align="left" width="350" alt="🦑" src="https://github.com/jeancode/SpacedMaketaV1/raw/main/Captura.PNG">|
+
+
+
+| SocialTikets3d | tarjetas3d |
+| ------------- | ------------- |
+|<img align="left" width="350" alt="🦑" src="https://github.com/jeancode/SocialTikets3d/raw/main/Captura.PNG?raw=true">|<img align="left" width="350" alt="🦑" src="https://github.com/jeancode/tarjetas3d/raw/main/Tarjetas.PNG">|
+
+
+| Efecto-Matrix | 
+| ------------- | 
+|<img align="left" width="350" alt="🦑" src="https://github.com/jeancode/Efecto-Matrix/blob/master/Captura.PNG?raw=true">|

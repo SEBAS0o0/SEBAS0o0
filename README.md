@@ -68,18 +68,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mis Proyectos</title>
+    <title>Tabla con 2 columnas y 5 filas</title>
     <style>
         /* Estilos para la tabla (opcional, puedes personalizarlos) */
         table {
             border-collapse: collapse;
-            width: 100%;
+            width: 50%;
+            margin: auto;
         }
 
         th, td {
             border: 1px solid #ccc;
             padding: 8px;
-            text-align: left;
+            text-align: center;
         }
 
         th {
@@ -92,36 +93,37 @@
     </style>
 </head>
 <body>
-    <h1>Mis Proyectos</h1>
+    <h1>Tabla con 2 columnas y 5 filas</h1>
     <table>
         <thead>
             <tr>
-                <th>Nombre del Proyecto</th>
-                <th>Descripción</th>
-                
+                <th>Columna 1</th>
+                <th>Columna 2</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>
-                    <h1>Proyecto 1</h1>
-                    <img src="https://raw.githubusercontent.com/jeancode/SnakeFGame/main/Miniatura.png" alt="" style="width: 400px;">
-                </td>
-                
-                <td>
-                   
-                
-                </td>
-               
+                <td>Fila 1, Celda 1</td>
+                <td>Fila 1, Celda 2</td>
             </tr>
             <tr>
-               <td>
-                <img src="https://raw.githubusercontent.com/jeancode/CarameloLoad/main/Captura.PNG" alt="" style="width: 400px;">
-               </td>
+                <td>Fila 2, Celda 1</td>
+                <td>Fila 2, Celda 2</td>
             </tr>
-            <!-- Agrega más filas para tus proyectos -->
+            <tr>
+                <td>Fila 3, Celda 1</td>
+                <td>Fila 3, Celda 2</td>
+            </tr>
+            <tr>
+                <td>Fila 4, Celda 1</td>
+                <td>Fila 4, Celda 2</td>
+            </tr>
+            <tr>
+                <td>Fila 5, Celda 1</td>
+                <td>Fila 5, Celda 2</td>
+            </tr>
         </tbody>
     </table>
 </body>
 </html>
-
+  

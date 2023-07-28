@@ -2,7 +2,7 @@
 <h1>🖐️🖐️My presentation💻🌗🎧👨‍🚀</h1>
                                                
 
-<p><h2>I am a passionate programmer with a strong background in software development and extensive experience in solving technical challenges. My main objective is to create innovative and efficient solutions, contributing to technological progress and improving the user experience.</h2></p>
+<p><h2>I am a passionate programmer with a strong background in software development and extensive experience in solving technical challenges. My main objective is to create <br>innovative and efficient solutions, contributing to technological progress and improving the user experience.</h2></p>
 
 ![Captura de pantalla (23)](https://github.com/SEBAS0o0/SEBAS0o0/assets/92197217/080e1759-df27-44c6-97f8-c78b36696b0e)
 

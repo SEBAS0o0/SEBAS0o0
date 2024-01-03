@@ -11,8 +11,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 
-
-![Captura de pantalla (91)](https://github.com/SEBAS0o0/SEBAS0o0/assets/92197217/9866e065-43da-4a9a-a267-c9a6dc53cadc)
+![Captura de pantalla (92)](https://github.com/SEBAS0o0/SEBAS0o0/assets/92197217/7e408b64-3112-44f4-bc36-14e84be0e718)
 
 
 | programming languages | experience |

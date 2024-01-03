@@ -8,11 +8,8 @@
 
 ![21116158daaeb1459b4ec0758505e1ad](https://github.com/SEBAS0o0/SEBAS0o0/assets/92197217/760dbe50-b380-4c0b-996d-b4fa8307814c)
 ![animation1](https://github.com/SEBAS0o0/SEBAS0o0/assets/92197217/e356287a-2bc2-43e9-88f4-43a2a8630b64)
-<img align="right" height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-
 ![Captura de pantalla (92)](https://github.com/SEBAS0o0/SEBAS0o0/assets/92197217/7e408b64-3112-44f4-bc36-14e84be0e718)
-
+<img align="right" height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 | programming languages | experience |
 | ------------- | ------------- |
